@@ -3,7 +3,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/nitishjha1">
+  <a href="https://www.linkedin.com/in/arnav-kumar-gupta-18ba5721a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCI5LARQcOkBXta75a9ZVBWA">
@@ -50,7 +50,7 @@
 
 </div>
 <!--
-*nitish-jha-hub/nitish-jha-hub* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*arnavgupta* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
